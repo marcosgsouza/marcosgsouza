@@ -90,3 +90,11 @@ Adoro criar coisas legais e aprender algo novo todo dia, sempre busco maneiras d
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgsouza&layout=compact&langs_count=16&theme=dark&custom_title=Tecnologias" 
   />
 </div>
+
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcosgsouza/marcosgsouza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcosgsouza/marcosgsouza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marcosgsouza/marcosgsouza/output/github-contribution-grid-snake.svg">
+</picture>
