@@ -12,6 +12,20 @@ Adoro criar coisas legais e aprender algo novo todo dia, sempre busco maneiras d
 
 ---
 
+📚 O que eu ando estudando:
+
+🔹 Angular – porque frontend também merece amor ❤️<br>
+🔹 Docker – rodando containers como se fosse mágica 🐳<br>
+🔹 Go – rápido, direto ao ponto e perfeito pra serviços ⚡
+
+---
+
+🚀 Missão atual:
+
+Ganhar XP como dev, contribuir em projetos legais e compartilhar conhecimento.
+
+---
+
 ### 🤖 Linguagens e Tecnologias
 <div>
   <img 
@@ -64,11 +78,35 @@ Adoro criar coisas legais e aprender algo novo todo dia, sempre busco maneiras d
   />
   <img 
     align="left"
+    alt=".Net Core"
+    title=".Net Core"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
+  />
+  <img 
+    align="left"
     alt="Git"
     title="Git"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+  />
+  <img 
+    align="left"
+    alt="Docker"
+    title="Docker"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
+  />
+  <img 
+    align="left"
+    alt="Golang"
+    title="Golang"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"
   />
 </div>
 
